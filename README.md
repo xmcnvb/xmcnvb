@@ -2,7 +2,7 @@
 
 I’m [@xmcnvb](https://github.com/xmcnvb)
 
-👨🏻‍💻 I’m an ML engineer and an AI enthusiast
+👨🏻‍💻 I’m an ML engineer and an AI enthusiast.
 
 📫 How to reach me: [t.me/xmcnvb](https://t.me/xmcnvb)
 
