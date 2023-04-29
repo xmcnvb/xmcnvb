@@ -1,6 +1,6 @@
 👋 Hi there!
 
-I’m @xmcnvb
+I’m [@xmcnvb](https://github.com/xmcnvb)
 
 👨🏻‍💻 I’m an ML engineer and an AI enthusiast
 
